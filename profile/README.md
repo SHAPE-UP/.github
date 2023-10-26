@@ -1,4 +1,4 @@
-## We are team, SHAPE-UP
+
 
 <div align="center">
 	
